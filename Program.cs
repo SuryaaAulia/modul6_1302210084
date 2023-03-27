@@ -12,6 +12,7 @@ SayaTubeVideo sv7 = new SayaTubeVideo("FaZe vs 100T - ESL Pro League Season 10 -
 SayaTubeVideo sv8 = new SayaTubeVideo("Vatality vs MouseFit - ESL Pro League Season 9 - GRAND FINAL ");
 SayaTubeVideo sv9 = new SayaTubeVideo("NaVi vs ENCE - ESL Pro League Season 8 - GRAND FINAL ");
 
+sv.IncreasePlayCount(100000000);
 su.AddVideo(sv);
 su.AddVideo(sv1);
 su.AddVideo(sv2);
